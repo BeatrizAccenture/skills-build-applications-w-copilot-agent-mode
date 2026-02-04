@@ -1,3 +1,8 @@
+import os
+
+# API endpoints are available at:
+#   https://$CODESPACE_NAME-8000.app.github.dev/api/[component]/
+#   (where $CODESPACE_NAME is set in the Codespace environment)
 """octofit_tracker URL Configuration
 
 The `urlpatterns` list routes URLs to views. For more information please see:
